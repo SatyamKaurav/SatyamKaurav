@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Kaurav</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Back-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkaurav&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkaurav" /> </p>
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyam-kaurav-7455b6195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-kaurav-7455b6195/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@satyamkaurav812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@satyamkaurav812" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kauravsatyam2021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kauravsatyam2021/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam kaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam kaurav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@satyamkaurav812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@satyamkaurav812" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kauravsatyam2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kauravsatyam2021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
